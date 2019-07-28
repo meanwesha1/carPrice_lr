@@ -1,2 +1,2 @@
-# price_lr
+# carPrice_lr
 Predicting car price values using Linear Regression model.
